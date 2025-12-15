@@ -101,7 +101,7 @@ TCP 소켓 기반 채팅 서버 / 클라이언트 프로그램
 서버 실행
 
     cd gimal_server
-    python npchat_server.py
+    pythonserver.py
 
 클라이언트 A
 
