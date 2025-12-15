@@ -17,6 +17,15 @@ TCP 소켓 기반 채팅 서버 / 클라이언트 프로그램
 
 ---
 
+## 저장소 클론
+
+Git이 설치되어 있어야 합니다.
+
+    git clone <repository-url>
+    cd <repository-directory>
+
+---
+
 ## 실행 방법
 
 ### 1. 서버 실행
